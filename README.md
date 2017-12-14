@@ -17,7 +17,8 @@ for(let i=0; i<=100;i++) {
 console.log(`toto su cisla delitelne dvoma: ${delitelnedvoma}`)
 console.log(`toto su cisla delitelne troma: ${delitelnetroma}`)
 console.log(`toto su cisla delitelne dvoma a troma: ${delitelnedvomaatroma}`)
-``````
+```
+```
 const delitelnedvoma2 = []
 const delitelnetroma2 = []
 const delitelnedvomaatroma2 = []
@@ -36,7 +37,8 @@ console.log('---------dalsi sposob---------')
 console.log(`toto su cisla delitelne dvoma: ${delitelnedvoma2}`)
 console.log(`toto su cisla delitelne troma: ${delitelnetroma2}`)
 console.log(`toto su cisla delitelne dvoma a troma: ${delitelnedvomaatroma2}`)
-``````
+```
+```
 const delitelnedvoma3 = []
 const delitelnetroma3 = []
 const delitelnedvomaatroma3 = []
